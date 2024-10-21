@@ -8,4 +8,9 @@
   Teste realizado com sucesso, relatorio repassado juntamente com as 
   
 * o Execução do Teste
+  
+  foi realizado o teste com 3 usarios de forma separada e obtvemos resultados distinos.
+  
 * o Análise dos Resultados
+  
+Avliamos os testes realizados com os usarios, e fizemos todo a analise que foi usada para realizar o restante do trabalho.
