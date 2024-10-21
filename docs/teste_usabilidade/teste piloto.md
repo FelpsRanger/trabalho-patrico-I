@@ -1,16 +1,1 @@
-# Teste Piloto 
-
-Um membro do grupo ficou responsavel pelo teste piloto seguindo a tarefas solicitadas antes de seguirmos para os teste de usuários. Assim ficou a tabela com as heuristicas e seu grau de severidade relacionada a cada tarefa realizada no teste piloto.
-
-
-| TAREFA | DIFICULDADE | HEURÍSTICA | GRAU DE SEVERIDADE |
-|--------|-------------|------------|--------------------|
-| 1      | Localização pouco intuitiva de funções financeiras | 4 | 2 |
-| 2      |Complexidade na gestão de segurança | 6 | 3 |
-| 3      | Bloqueio rápido e acessível do cartão físico| 3 |0 |
-| 4      | Dificuldade de localização da funcionalidade caixinha | 6 | 3 |
-| 5      | Falta de informação sobre erros financeiros |9 | 3 |
-| 6      | Reconhecimento em vezde memorização |6 | 0 |
-| 7      | Complexidade na gestãode segurança |6 | 0 |
-|8       | Encerramento inesperado do aplicativo |1 | 0 |
-| 9      | Login rápido e intuitivo | 3 | 0 |
+No teste piloto a discente Andreza Rodrigues de oliveira se voluntariou para realizar as tarefas elaboradas pelos inspetores, onde foi constatado que o app não permite que usuários Android gravem a tela do aplicativo, no decorrer do teste a mesma relatou que ao tentar entrar no aplicativo pela web observou que usuários com conta “pessoa física” não tem acesso pelo navegador. A discente Andreza concluiu que todas as atividades não ofereciam nenhum risco de vazamento de dados dos usuários testes e que portanto poderia ser executado na etapa de testes de avaliação de usabilidade. 
