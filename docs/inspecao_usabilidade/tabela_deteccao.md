@@ -4,6 +4,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 - A1:  João Asafe Batista de Souza #22252494
 - A2: Felipe Rangel Silvestre #22400234
 - A4: Andreza Rodrigues de Oliveira #22450924
+- A5: Gabriela Rodrigues conceição #22354043
 
 ### Inspetor : A1
 
@@ -49,5 +50,20 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  7 | Complexidade na gestão de segurança |   6  |   3 |                        |
 |  8 | Encerramento inesperado do aplicativo |    1  |   3 |                     |
 |  9 | Login rápido e intuitivo |    3 |   3 |                                   |
+
+
+### Inspetor : A5
+
+ | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 |Consegui realizar depois de muita dificuldade sistema pouco intuitiva.  | 9    |   3     |    |
+|  2 | Não consegui realizar a atividade, onde encontrar a opção.|         2,8,6     |        5   |      |
+|  3 | Muito intuitivo fácil conclusão |        |        |         |
+|  4 | O sistema ofereceu opções de caixinhas que poderiam se do meu interesse e criar uma em específico que eu gostaria, o que tonou única  |      |   |     |
+|  5 | Resgate do dinheiro concluído com sucesso, a retirada de investimento do dinheiro foi de imediato o que não te deixa na mão na hora de resgatar e levar um tempo para esta na sua carteira digital |    |    |                 |
+|  6 | Conclui-se com muita facilidade e sem problemas |     |    |                      |
+|  7 | Apagar o cartão virtual foi um pouco confuso pois na hora o que primeiro ficou visível foi bloquear e a tarefa era o contrário, era excluir e só depois de acessar as configurações concluir a atividade. |   8  |   1 |                        |
+|  8 | Conclusão com poucas dificuldades |    6  |   1 |                     |
+|  9 | Tarefa concluída com facilidade |    |    |                                   |
 
 
