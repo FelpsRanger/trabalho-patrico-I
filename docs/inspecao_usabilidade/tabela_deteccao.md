@@ -3,6 +3,7 @@
 Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve identificar potenciais problemas de usabilidade nas interações escolhidas.
 - A1:  João Asafe Batista de Souza #22252494
 - A2: Felipe Rangel Silvestre #22400234
+- A3: Francisco Martins Rego Neto #22353932
 - A4: Andreza Rodrigues de Oliveira #22450924
 - A5: Gabriela Rodrigues conceição #22354043
 
@@ -35,6 +36,19 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  8 |    função facil de encontrar e realizada com sucesso.                   |                      |            |               |
 |  9 |     login rápido.                 |                      |            |               |
 
+ ### Inspetor : A3
+
+ | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 | Função um dificl de ser encontrada| 4    |   3      |    |
+|  2 |Nao consegui realizar a tarefa |         6      |        5   |      |
+|  3 | Sem dificuldades para realizar a ação |       |       |         |
+|  4 | Um pouco dificultoso encontrar esta função  |    6  |   3 |     |
+|  5 | falta de dados sobre esta funciinalidade  |   9 |   0 |                 |
+|  6 | acesso rapido para realizar |    6  |   3 |                      |
+|  7 |realzado com um pouco de dificuldade |   6  |   3 |                        |
+|  8 | Facil de encontrar |    1  |   3 |                     |
+|  9 |  rapido e pratico |    3 |   3 |                                   |
 
 
  ### Inspetor : A4
