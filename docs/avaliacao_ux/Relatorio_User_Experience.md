@@ -5,37 +5,4 @@ base nos dados coletados e interpretados a partir da planilha gerada pela ferram
 destacando insights relevantes sobre a experiência do usuário.
 
 
-
-
-
-*Usario 1
-
-
-| 1 | 2 |  3 |  4  | 5  |  6  | 7 |
-|-|-|-|-|-|-|----------------------|
-|Desagradável| ○| ○ |○| ○| ○ |○ |○| Agradável|
-|Incompreensível| ○ ○ ○ ○ ○ ○ ○ Compreensível|
-Criativo ○ ○ ○ ○ ○ ○ ○ Sem criatividade
-De Fácil aprendizagem ○ ○ ○ ○ ○ ○ ○ De difícil aprendizagem
-Valioso ○ ○ ○ ○ ○ ○ ○ Sem valor
-Aborrecido ○ ○ ○ ○ ○ ○ ○ Excitante
-Desinteressante ○ ○ ○ ○ ○ ○ ○ Interessante
-Imprevisível ○ ○ ○ ○ ○ ○ ○ Previsível
-Rápido ○ ○ ○ ○ ○ ○ ○ Lento
-Original ○ ○ ○ ○ ○ ○ ○ Convencional
-Obstrutivo ○ ○ ○ ○ ○ ○ ○ Condutor
-Bom ○ ○ ○ ○ ○ ○ ○ Mau
-Complicado ○ ○ ○ ○ ○ ○ ○ Fácil
-Desinteressante ○ ○ ○ ○ ○ ○ ○ Atrativo
-Comum ○ ○ ○ ○ ○ ○ ○ Vanguardista
-Incómodo ○ ○ ○ ○ ○ ○ ○ Cómodo
-Seguro ○ ○ ○ ○ ○ ○ ○ Inseguro
-Motivante ○ ○ ○ ○ ○ ○ ○ Desmotivante
-Atende as expectativas ○ ○ ○ ○ ○ ○ ○ Não atende as expectativas
-Ineficiente ○ ○ ○ ○ ○ ○ ○ Eficiente
-Evidente ○ ○ ○ ○ ○ ○ ○ Confuso
-Impraticável ○ ○ ○ ○ ○ ○ ○ Prático
-Organizado ○ ○ ○ ○ ○ ○ ○ Desorganizado
-Atraente ○ ○ ○ ○ ○ ○ ○ Feio
-Simpático ○ ○ ○ ○ ○ ○ ○ Antipático
-Conservador ○ ○ ○ ○ ○ ○ ○ Inovador
+Ueq [questionario](https://drive.google.com/drive/folders/1QAr43zQeSJrpupBOI2VbEVSOaWWGvYjf?usp=sharing)
