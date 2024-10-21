@@ -4,14 +4,14 @@
 | Heurísticas violadas	Quantidade | | |
 |------------------------------|-|-|
 | Visibilidade do estado do sistema|  (H1) | 	3 |
-| Correspondência entre o sistema e o mundo real |  (H2) |	1 |
+| Correspondência entre o sistema e o mundo real |  (H2) |	2 |
 | Controle e liberdade do usuário |  (H3) |	5 |
 | Consistência e padronização  | (H4) |	3 |
 | Prevenção de erros | (H5) |	0 |
-| Reconhecer ao inve s de relembrar | (H6)	| 9 |
+| Reconhecer ao inve s de relembrar | (H6)	| 11 |
 | Flexibilidade e eficiência de uso | (H7)	| 4 |
-| Este tica e design minimalista | (H8) | 	0 |
-| Ajudar os usuários a reconhecerem, diagnosticar e corrigir erros | (H9) |	4 |
+| Este tica e design minimalista | (H8) | 	2 |
+| Ajudar os usuários a reconhecerem, diagnosticar e corrigir erros | (H9) |	5 |
 | Ajuda e documentação | (H10)  	| 0 |
 
 
@@ -19,7 +19,7 @@
 | Severidade	Quantidade | |
 |------------------------|-|
 | 0 - Falso-Positivo | 	4 |
-| 1 - Cosmético |	3 |
-| 2 - Leve |	7 |
+| 1 - Cosmético |	5 |
+| 2 - Leve |	8 |
 | 3 - Grande |	9 | 
-| 4 - Catastrófico |	0 | 
+| 4 - Catastrófico |	1 | 
